@@ -1,0 +1,49 @@
+### JetBrains template
+##  git config --global core.excludesfile .gitignore
+###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, # Covers JetBrains IDEs: IntelliJ, RubyMine,
+target/generated-sources/
+target/
+### JetBrains template
+##  git config --global core.excludesfile .gitignore
+###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, # Covers JetBrains IDEs: IntelliJ, RubyMine,
+target/generated-sources/
+target/
+/.classpath
+/.project
+.settings/
+
+
+#x-code
+*.xcodeproj
+
+
+
+
+target/generated-sources/
+target/
+/.classpath
+/.project
+.settings/
+
+/.classpath
+/.project
+.settings/
+
+
+#x-code
+*.xcodeproj
+
+
+
+
+target/generated-sources/
+target/
+/.classpath
+/.project
+.settings/
+
+
+#x-code
+*.xcodeproj
